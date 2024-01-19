@@ -4,7 +4,7 @@
 /////////////////////////////////////////////////
 // BANKIST APP
 
-// alert("USER: JS, PIN: 1111 ")
+alert("USER: JS, PIN: 1111 ")
 
 // Data
 const account1 = {
